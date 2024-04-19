@@ -7,3 +7,5 @@ They ask us to do a first reading of the records and we have found that they are
 
 You can take a look at our notebook to see the cleaning and analysis process, as well as the slides of our presentation with the process explained and the conclusions we have reached.
 
+PRESENTATION:
+https://docs.google.com/presentation/d/1xSh1H4PjgWTxobrxrPW7mvFBh43Df6fBgVZ0Mz5c3Vc/edit#slide=id.g2cda5c653cd_0_289 
